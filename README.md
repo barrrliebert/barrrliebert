@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Akbar+T.+Ramadan;I'm+Junior+Frontend+Developer;I'm+from+Indonesia;Student+at+SMKN+4+Bogor;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=barrrliebert&bg_color=ffffff&color=3a88fe&line=00c7fc&point=3a88fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=barrrliebert&bg_color=f5f4f5&color=0062ff&line=0084ff&point=004cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
